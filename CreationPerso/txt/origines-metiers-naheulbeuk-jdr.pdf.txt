@@ -1,0 +1,747 @@
+Jeu de rôle Naheulbeuk
+
+LES FICHES POUR LE Maîiiiiitre :
+ORIGINES ET MÉTIERS DES HÉROS
+
+V.3.1 (avancé)
+
+Résumés des nases personnages – ORIGINE
+
+Notes importantes :
+
+Une fois le personnage créé, et lorsque ses origines et métiers ont été choisis, le joueur doit choisir 2 COMPÉTENCES 
+optionnelles dans l'une ou l'autre de ses fiches (métier, origine) à moins d'être un humain.
+
+➢ S'il n'a pas de métier il ne choisira bien sûr que dans sa fiche d'origine
+➢ Il peut choisir deux compétences dans la même feuille, ou une dans chaque
+➢ Si le héros est un HUMAIN sans métier, il peut choisir 2 compétences dans la liste de toutes les compétences !
+
+Les valeurs maximales « naturelles » indiquées pour la création du personnage concernent les valeurs de base, elles 
+peuvent bien sûr être modifiées par du matériel. Elles pourront augmenter légèrement (+1 ou +2), pendant la carrière du 
+héros, mais sans monter de façon illogique, la décision d'autoriser telle ou telle augmentation restant à la discrétion du MJ.
+
+Humain, l'aventurier de base
+Aucun score minimum dans les caractéristiques de base. C'est le choix que tout le monde peut faire en tirant un 
+personnage, quel que soit le résultat des dés.
+L'humain de base peut utiliser n’importe quelle forme de magie sur des objets ou des enchantements. Il peut utiliser des 
+parchemins s'il sait lire (compétence Érudition). Il peut également choisir n'importe quelle profession à condition d'avoir les 
+scores nécessaires, et s'il n'en choisit pas il peut sélectionner de base deux compétences au choix - sauf « Appel du 
+sauvage ».
+Restriction :
+
+ aucune restriction : l'humain peut tout faire
+
+EV initiale : 30
+
+Les humains sont répandus en Terre de Fangh et vivent un peu partout. Ils ont un patrimoine génétique très large et donc 
+on en trouve de toutes les tailles, avec plus ou moins d'intelligence, de caractère fort ou faible, plus ou moins adroits. Ils 
+peuvent porter toutes sortes d'armures à condition d'être assez forts pour les supporter, et utiliser n'importe quelle arme 
+s'ils ont la force requise et les compétences associées.
+
+Les restrictions associées aux humains seront donc plutôt celles qui découlent du métier qu'ils ont choisi.
+
+Si vous avez peur d'un jeu compliqué, choisissez l'humain. Les pages suivantes vous présenteront les autres origines (de 
+façon non exhaustive) qu'il est possible de croiser en Terre de Fangh, et d'incarner en tant qu'aventurier.
+
+Barbare, l'aventurier bourrin des steppes
+Critères : FO minimum : 13 et COU minimum : 12
+Taille : souvent quelques centimètres de plus que les humains.
+Le Barbare a une endurance très élevée. Il n'aime pas tout ce qui est compliqué. Il résiste au froid, au chaud, à la douleur. 
+C'est un humain différent des autres, car plus robuste et beaucoup moins polyvalent.
+Restrictions :
+
+ n’utilise pas la magie sauf sur arme enchantée
+ n’utilise pas d’arbalète (c'est compliqué !)
+ n’utilise pas d’armure complète ou d'armure enchantée
+ n’utilise pas de bouclier
+
+EV initiale : 35
+AT/PRD initiales : le Barbare est bourrin, il a +1 en ATTAQUE et -1 en PARADE en début de carrière
+Compétences de naissance : AMBIDEXTRIE, CHERCHER DES NOISES, SENTIR DES PIEDS, TÊTE VIDE
+Compétences au choix : armes de bourrin, bourre-pif, chevaucher, escalader, intimider, nager, pister, tirer correctement, 
+truc de mauviette
+
+Les Barbares et la magie : ils n'aiment pas la magie, ni les mages. Ils n'aiment pas la lecture, de base, et considèrent ceux 
+qui la pratiquent comme des mauviettes. Bien sûr, il se peut qu'ils côtoient des mages au cours de leur carrière d'aventurier 
+et que leur a-priori soit un peu bouleversé. D'une manière générale, le Barbare pourra choisir de s'équiper d'une arme 
+magique/enchantée s'il est convaincu du caractère efficace de celle-ci. En recours exceptionnel, un mage pourrait réussir à 
+convaincre un Barbare de s'équiper d'un autre type objet enchanté (collier, bracelets ou autre).
+
+Les Barbares et l'armure : un Barbare a grandi dans les plaines à moitié nu. Il est persuadé que les armures complètes sont 
+destinées aux faibles. En conséquence, il s'équipera souvent de protections car il peut facilement en porter le poids et il n'est 
+pas tout à fait stupide, mais il aime être libre de ses mouvements. Les parties principales du corps ne pourront donc pas 
+porter simultanément une armure.
+On pourra donc trouver sur un Barbare des combinaisons de ce type :
+
+➢ Plastron, casque, bracelets
+➢ Plastron, bracelets, gantelets ou épaulières
+➢ Jambières, casque, bracelets (et torse nu huilé, c'est la classe)
+
+On ne pourra pas trouver sur un Barbare des combinaisons de ce type :
+
+➢ Plastron, jambières, bracelet, casque
+➢ Plastron, jambières, brassières
+
+Les Barbares et les boucliers : porter un bouclier pour se protéger n'est pas dans la culture du Barbare. Porter deux armes, 
+par contre, est tout à fait son style ! Le Barbare se concentrera généralement sur l'attaque plutôt que sur sa protection.
+
+Les armes de jet : les barbares sont aussi des chasseurs. En conséquence, il est tout à fait probable qu'ils aient envie 
+d'utiliser des armes de jet pour infliger des dégâts, mais dans le cas d'une mêlée ils ne resteront pas en marge du combat 
+pour tirer des flèches... On pourra trouver sur un Barbare des armes de jet qui font de vrais dégâts et qui ne sont pas trop 
+complexes à utiliser : les arcs et les javelots, haches de jets et poignards, dagues, grosse pierre. Ils sont assez forts le cas 
+échéant pour lancer n'importe quelle arme (qui, n'étant pas prévue pour ça, leur donnera évidemment un malus).
+
+Comme il est tout de même humain, le Barbare ne dispose pas d'immunités particulièrement développées à la plupart des 
+maladies, et c'est un peu son point faible.
+
+Nain
+Critères : FO minimum : 12 et COU minimum : 11
+Taille : entre 1,20 m et 1,30 m
+Restrictions :
+
+ n’utilise pas la magie sauf sur arme ou protection enchantée
+ n’utilise pas d’arc ou arbalète
+ n’utilise pas les armes à 2 mains « humaines »
+
+EV initiale : 35
+Compétences de naissance : APPEL DU TONNEAU, INSTINCT DU TRÉSOR, PÉNIBLE, RADIN
+Compétence au choix : appel des renforts, arnaque et carambouille, bourre-pif, bricolo du dimanche, chercher des noises, 
+fariboles, forgeron, méfiance, truc de mauviette, tirer correctement (hache de jet)
+
+Les Nains et les armes : Les Nains ont les bras plus courts que les humains et que les autres créatures et n'ont pas le même 
+sens de l'équilibre, ni le même centre de gravité. Cela leur pose des problèmes pour ce qui concerne l'utilisation d'un certain 
+nombre d'armes. On considère donc que les armes à 1 main des humains sont des armes à 2 mains pour les Nains (ils ont 
+donc +1 aux dégâts) et qu'ils ne peuvent pas manier les vraies armes à 2 mains. Les Nains eux-mêmes fabriquent des 
+armes spécialement étudiées (haches et marteaux d'artisan Nain, ou Durandil) qu'ils peuvent manier à 1 main (ils peuvent 
+ainsi en prendre une dans chaque main, ou utiliser un bouclier avec). En conséquence, la compétence « armes de bourrins » 
+ne sert à rien pour les Nains. Ils sont bourrins de base !
+
+Les Nains et les armures : il n'y a aucune restriction pour les Nains liées au port d'armure lourde ou encombrante, car ils 
+aiment sentir sur eux le poids du métal et du cuir. En revanche, il faut savoir que de nombreux malus de déplacement ou 
+d'adresse (= scores de combat) peuvent s'appliquer.
+
+Les Nains et la magie : ils n'aiment pas la magie, ni les mages, ni les livres ni la lecture, ni le papier. Cependant, ils sont un 
+peu plus rusés que les Barbares et savent faire feu de tout bois. D'une manière générale, le Nain pourra choisir de s'équiper 
+d'une arme ou d'une armure magique/enchantée s'il est convaincu du caractère efficace de celle-ci (augmentation de 
+caractéristique ou gain de compétence). Il en sera de même pour les colifichets, bijoux et autres articles enchantés.
+En revanche, un Nain n'utilisera pas d'objet générant des effets magiques : bague ou objet chargée, et surtout pas de 
+parchemin.
+
+Les armes de jet : un Nain n'utilisera pas une arme de jet qui rappelle les Elfes : les arcs et arbalètes et tout ce qui tire des 
+flèches, ainsi que les javelots qui « ressemblent à des grosses flèches ». En revanche, ils sont assez bons à la hache de jet ou 
+au lance-pierre. Lancer des cailloux, c'est tout à fait dans la culture du Nain qui a grandi sous la roche !
+
+Un problème de taille : le Nain est considéré comme créature « de petite taille », mais il est de nature maladroite et 
+pataude. Il subira donc toujours des malus dans les épreuves de type « escalade » ou « discrétion ». Il est assez large et 
+lourd et son poids n'est pas si différent de celui d'un humain, surtout qu'il est souvent lourdement équipé.
+
+Haut Elfe
+Critères : CHA minimum : 12 et AD minimum : 12, INT minimum : 11 - FO naturelle maximum : 12
+Taille : Taille humaine standard, mais en moyenne plus mince que les humains.
+Excellente vue, nyctalopie moyenne. Ouïe plus développée que la moyenne.
+Restrictions :
+
+ ne peut utiliser les armes à 2 mains
+ transport de charge limitée à 10 kilos
+ n’utilise pas d’armure supérieure à PR4 (sauf magique)
+
+EV initiale : 25
+Bonus : +1 point au CHARISME au passage des niveaux 2 et 3
+Compétences de naissance : ÉRUDITION, RUNES BIZARRES, TOMBER DANS LES PIÈGES
+Compétences au choix : chef de groupe, chevaucher, jonglage et danse, nager, premiers soins, tirer correctement
+
+Les hauts-elfes sont les descendants des elfes ayant découvert la Terre de Fangh il y a bien longtemps. Plutôt que de 
+s'enfuir dans la forêt pour monter une société arboricole, ils ont choisi de se fondre dans la population humaine, même s'ils 
+vivent en général dans des quartiers qui leur sont propres. De part leur style précieux et réfléchi, et de part leur grande 
+longévité ils ont le plus souvent fondé des familles nobles et riches. Ils sont hautains, propres sur eux, respectueux de 
+l'environnement et de toute forme d'activité artistique mais ne sont pas fascinés par leurs cousins les Elfes Sylvains.
+
+Les hauts-elfes et les armes : ils sont assez évolués pour utiliser toute forme d'arme, mais leur côté précieux les rend 
+quelque peu réfractaire à l'utilisation des armes à deux mains. Considérées comme des « armes de bourrin » dans toute la 
+Terre de Fangh, elles donne un côté bestial et fait souvent jaillir le sang à plusieurs mètres à la ronde, ce qui peut tacher les 
+vêtements. Ainsi, même s'il est guerrier le haut-elfe ne se munira pas d'arme à deux mains (sauf cas particulier d'arme à 
+deux mains « elfique » fabriquée pour son usage).
+
+Les hauts-elfes et l'équipement : d'un naturel soigneux et délicat, ce personnage ne veut pas se transformer en dromadaire. 
+Il refusera donc de porter de lourdes charges ou de s'encombrer, tout simplement parce que ce n'est pas dans sa nature. Il 
+n'aimera pas non plus se trouver engoncé dans une boîte de conserve, et va préférer le port de plusieurs pièces d'armure de 
+cuir ou de tissu à celui d'une pièce d'armure métallique ou renforcée.
+
+La magie : il est tout à fait dans le caractère d'un haut-elfe d'utiliser toutes les formes de magie, ou tout type de matériel 
+béni pour peu que ça ne soit pas contraire à sa religion (dans le cas où il serait prêtre).
+
+Les armes de jet : on a vu des hauts-elfes utiliser à peu près tous les types d'armes de jet, à l'exception des haches et des 
+lance-pierres qui sont « des accessoires ridicules prévus pour les Nains ».
+
+DEMI-Elfe (d'humain et elfe)
+Critères : CHA minimum : 10 et AD minimum : 11
+Taille : Taille humaine standard.
+Excellente vue, nyctalopie moyenne.
+Restrictions :
+
+ ne peut utiliser les armes à 2 mains
+ transport de charge limitée à 15 kilos
+ n’utilise pas d’armure supérieure à PR5 (sauf magique)
+
+EV initiale : 28
+Compétences de naissance : APPEL DES RENFORTS, DÉTECTION, CHOURAVER, MÉFIANCE
+Compétences au choix : bricolo du dimanche, chevaucher, érudition, escalader, fouiller dans les poubelles, mendier et 
+pleurnicher, nager, tirer correctement
+
+Le demi-elfe, qu'il soit issu d'Elfe Sylvain ou de Haut-Elfe, a gardé un côté précieux et fragile mais aussi une part de la 
+beauté provenant de ses origines elfiques, et une adresse un peu supérieure à la moyenne. Il a gagné en robustesse et en 
+force grâce à l'apport génétique humain.
+
+Considérés comme des bâtards par les deux peuples, ils ont souvent une enfance difficile et sont sujets à diverses moqueries, 
+développent ainsi une forme de paranoïa qui les suivra tout au long de leur vie d'aventurier. Ils ont quelques facilités en ce 
+qui concerne la communication avec les animaux mais n'ont pas vraiment de traits caractéristiques des elfes, et ne 
+partagent pas non plus leur aversion pour les Nains.
+Leurs origines elfiques peuvent être assez discrètes, souvent un œil avisé pourra les deviner, mais il est assez facile de 
+cacher les oreilles légèrement pointues sous des cheveux ou une capuche.
+
+Les demi-elfes les armes : ils sont assez évolués pour utiliser toute forme d'arme, mais leurs origines elfiques les trahissent 
+quand il s'agit d'utiliser une arme à deux mains. Ils se sentent gauches et peu efficaces. Ainsi, même s'il est guerrier le 
+demi-elfe ne se munira pas d'arme à deux mains (sauf cas particulier d'arme à deux mains « elfique » fabriquée pour son 
+usage).
+
+Les demi-elfes et l'équipement : plus robuste que les autres elfes, mais possédant tout de même une certaine grâce et un 
+naturel délicat, ce personnage ne pourra pas transporter de lourdes charges. Il n'aimera pas non plus se trouver engoncé 
+dans une boîte de conserve, et va préférer le port de plusieurs pièces d'armure de cuir ou de tissu à celui d'une pièce 
+d'armure métallique ou renforcée.
+
+La magie : il est tout à fait dans le caractère d'un demi-elfe d'utiliser toutes les formes de magie, ou tout type de matériel 
+béni pour peu que ça ne soit pas contraire à sa religion (dans le cas où il serait prêtre).
+
+Les armes de jet : ils peuvent utiliser absolument toutes les armes de jet.
+
+Elfe sylvain
+Critères : CHA minimum : 12 et AD minimum : 10 - FO naturelle maximum : 11
+Taille : Taille humaine standard, généralement plus mince et plus élancé.
+Peut utiliser n’importe quelle forme d'objet enchanté (et parchemin avec « érudition » s'il choisit un métier). 
+Excellente vue, bon odorat, nyctalopie totale.
+Restrictions :
+
+ pas d’aptitudes à la magie (métier de mage ou prêtrise)
+ ne peut utiliser les armes à 2 mains
+ transport de charge limitée à 10 kilos
+ n’utilise pas d’armure supérieure à PR4 (sauf magique)
+
+EV initiale : 25
+Bonus : +1 point au CHARISME au passage des niveaux 2 et 3
+Compétences de naissance : CHEVAUCHER, NAÏVETÉ TOUCHANTE, PREMIERS SOINS, TIRER 
+CORRECTEMENT, TOMBER DANS LES PIÈGES
+Compétences au choix : comprendre les animaux, déplacement silencieux, jonglage et danse, nager, pister, tête vide
+
+Les Sylvains sont les descendants des elfes ayant découvert la Terre de Fangh il y a bien longtemps. Ils ont choisi de fuir la 
+compagnie des humains pour vivre dans la forêt car ils s'y sentaient bien, et que tout le monde y est gentil. Ils ont une 
+culture particulière, des styles de vie particuliers et sont enclins à la niaiserie et à l'innocence.
+
+Les Sylvains et les armes : ils sont assez évolués pour utiliser toute forme d'arme, mais leur côté précieux et fragile les 
+rend quelque peu réfractaire à l'utilisation des armes à deux mains. Considérées comme des « armes de bourrin » dans toute 
+la Terre de Fangh, elles donne un côté bestial et fait souvent jaillir le sang à plusieurs mètres à la ronde, ce qui peut tacher 
+les vêtements. Ainsi, les Sylvains n'utilisent jamais d'armes à deux mains.
+
+Les Sylvains et l'équipement : d'un naturel soigneux et délicat, ce personnage ne veut pas se transformer en dromadaire. Il 
+refusera donc de porter de lourdes charges ou de s'encombrer, tout simplement parce que ce n'est pas dans sa nature. Il 
+n'aimera pas non plus se trouver engoncé dans une boîte de conserve, et va préférer le port de plusieurs pièces d'armure de 
+cuir ou de tissu à celui d'une pièce d'armure métallique ou renforcée.
+
+L'Elfe Sylvain et la magie : il n'a pas d'aptitude à la magie par manque d'imagination et d'intelligence, la plupart du temps, 
+mais il n'y est pas réfractaire et trouve généralement cela merveilleux. Il est tout à fait dans le caractère d'un elfe 
+d'utiliser n'importe quel objet magique, ou tout type de matériel béni pour peu que ça ne soit pas contraire à sa religion 
+(dans le cas où il serait prêtre). En revanche, il ne sera capable d'utiliser les parchemins que s'il sait lire. Note : Certains 
+Elfes Sylvains d'ailleurs font des études particulières pour être capable de lancer eux mêmes des sortilèges, mais les gens 
+s'en méfient.
+
+Les armes de jet : l'arme de jet de prédilection des Sylvains est l'arc. La plupart des autres armes de jet sont moches, 
+encombrantes, lourdes, peu pratiques ou fabriquées par les Nains. Ils ne sont pas mauvais au poignard également.
+
+Elfe Noir
+Critères : AD minimum : 13, INT minimum : 12 - FO naturelle maximum : 12
+Taille : Taille humaine standard, généralement plus mince et plus élancé.
+Excellente vue, nyctalopie totale, ouïe très développée.
+Restrictions :
+
+ ne peut utiliser les armes à 2 mains
+ ne peut utiliser les boucliers
+ transport de charge limitée à 15 kilos
+ n’utilise pas d’armure supérieure à PR3 (sauf magique)
+
+EV initiale : 25
+Compétences de naissance : AGORAPHOBIE, DEPLACEMENT SILENCIEUX, DÉTECTION, TIRER 
+CORRECTEMENT
+Compétences au choix : ambidextrie, chouraver, érudition, escalader, forgeron, frapper lâchement, méfiance, pister, runes 
+bizarres
+
+Les Elfes Noirs sont le résultat, semble-t-il, d'expériences chaotiques menées par les dieux sur les Elfes il y a bien 
+longtemps. Ils ont perdu toute l'innocence de leurs ancêtres et ont développé une culture très marginale, loin de la plupart 
+des autres peuples. Ils sont capables de vivre aussi bien dans les cavernes qu'en ville, pratiquent toutes les formes de magie 
+et sont enclins à la violence et à l'aventure.
+Ils ne sont pas très à l'aise en compagnie d'autres gens, à l'exception de leurs semblables. Très discrets, ils sont également 
+fourbes et vifs, et naturellement doués pour les armes de jet.
+Au niveau du physique, l'Elfe Noir à la peau sombre et bleutée, les cheveux blancs la plupart du temps. Cependant, ces 
+caractéristiques ne les privent aucunement de charisme.
+
+Les armes : les Elfes Noirs sont plus frêles que les humains et ne sont pas à l'aise avec les armes à deux mains, considérées 
+comme des « armes de bourrin » dans toute la Terre de Fangh. Cependant, ils peuvent choisir de s'en équiper si l'arme est 
+légère et esthétique, donc a priori seulement si elle est enchantée.
+
+Les Elfes Noirs et l'équipement : habitué à se faufiler, à bouger rapidement, à se mouvoir dans l'ombre, l'Elfe Noir ne 
+s'encombre jamais d'armure imposante ni de bouclier. Il portera sans problème du cuir ou du tissu, mais sera plutôt 
+réfractaire à toutes les armures métalliques ou renforcées. Il porte rarement un casque, à moins que celui-ci ne soit 
+enchanté et très léger.
+
+Utilisation de la magie : rien ne fait peur à l'Elfe Noir : il peut utiliser toute forme de magie ou d'objet enchanté, y compris 
+les parchemins s'il dispose de la compétence « érudition ».
+
+Les armes de jet : les Elfes Noirs n'ont pas vraiment d'honneur et peuvent utiliser toutes les armes de jet, même les plus 
+fourbes. S'ils peuvent inoculer du poison, c'est parfait ! Ils aiment les petites lames, les arcs et les shuriken. Ils ont en 
+revanche du mal à concevoir l'emploi d'arme de jet lourdes ou encombrantes : arbalètes, haches ou javelots.
+
+Orque
+Critères : FO minimum : 12 - INT naturelle maximum : 8, CHA naturel maximum : 10
+Taille : taille humaine standard ou légèrement plus grand. Toujours un peu plus massif et plus costaud.
+Excellent odorat : peut flairer le sang ou le danger à 50 m. Mauvaise vue, mais nyctalopie totale.
+Restrictions :
+
+ n’utilise aucune forme de magie
+ n’utilise pas d’arbalète ou d'armes complexes
+
+EV initiale : 35
+AT/PRD initiales : l'orque est bourrin, il a +1 en ATTAQUE et -1 en PARADE en début de carrière
+Compétences de naissance : AGORAPHOBIE, APPEL DU SAUVAGE, APPEL DU TONNEAU, BOURRE-PIF, 
+INSTINCT DE SURVIE, SENTIR DES PIEDS, TÊTE VIDE
+Compétences au choix : armes de bourrin, chercher des noises, fouiller dans les poubelles, intimider, truc de mauviette
+
+L'orque est un peu l'équivalent du Barbare, mais en beaucoup plus idiot et sans aucun principe. Il est d'un naturel fourbe, 
+vicieux et méchant, mais certains parviennent à se faire une place dans la société en abandonnant les cavernes et les 
+hordes dans lesquelles ils vivent habituellement. Il garde toujours un côté un peu sauvage et peut y retourner si jamais il 
+est plongé dans le milieu d'où il est sorti.
+
+Chassé depuis des millénaires par tous les autres peuples, l'orque a développé des sens particuliers. Il voit dans l'obscurité et 
+il peut flairer les ennuis avant qu'ils ne soient sur lui. Il n'aime pas se retrouver en lieu public, entouré d'autres gens.
+C'est un personnage qui n'a aucune finesse mais peut se révéler ingénieux quand il s'agit de sauver sa peau. Il n'a pas 
+d'honneur et pas de code de conduite. Il n'est pas non plus très patient ! Son métabolisme s'est adapté pour résister à la 
+plupart des maladies, et il peut manger relativement n'importe quoi.
+
+L'orque dispose de son propre langage mais ils apprend et parle assez facilement la langue commune, de façon rustre.
+
+L'orque et l'équipement : tant qu'il s'agit de sauver sa peau, de frapper des gens ou de s'enrichir, l'orque ne reculera devant 
+rien. Il peut transporter de lourdes charges, porter tous les types d'armure, utiliser n'importe quel arme dont le maniement 
+n'est pas trop complexe ou qui n'est pas trop fragile (exit les arbalètes, nunchakus et sarbacanes). L'orque est avant tout 
+un survivant, et il s'adapte à tout.
+
+Magie : persécuté depuis des millénaires par les mages, l'Orque déteste la magie, sous toutes ses formes. Il peut « sentir » 
+l'aura magique d'un objet s'il doit le porter sur lui, et ça le dérange. Il n'utilise donc aucune arme, armure ou objet magique. 
+Il ne sera jamais vraiment l'ami d'un mage ou d'un prêtre (car il n'aime pas les dieux non plus).
+
+DEMI-Orque
+Critères : FO minimum : 12 - INT naturelle maximum : 10, AD naturelle maximum : 11
+Taille : taille humaine standard.
+Très bon odorat : peut flairer le sang ou le danger à 25 m. Nyctalopie moyenne.
+Restrictions :
+
+ n’utilise pas la magie sauf sur arme ou protection enchantée
+ n’utilise pas d’arbalète ou d'armes complexes
+
+EV initiale : 35
+Compétences de naissance : AGORAPHOBIE, CHERCHER DES NOISES, INSTINCT DE SURVIE, SENTIR DES PIEDS, 
+TÊTE VIDE
+Compétences au choix : armes de bourrin, bourre-pif, escalader, fouiller dans les poubelles, intimider, nager, tirer 
+correctement, truc de mauviette
+
+Le demi-orque a hérité de son origine peau-verte une certaine stupidité et une méfiance générale vis-à-vis du monde qui 
+l'entoure. Il est né bâtard d'une ethnie considérée par la plupart des gens comme un ennemi, et cela ne l'a pas aidé à 
+développer une personnalité équilibrée. Il est cependant plus beau, plus intelligent, et moins robuste qu'un orque. Il ne peut 
+jamais apprendre à lire, par déficience mentale générale, et ne sera jamais non plus très adroit.
+
+Le demi-orque et l'équipement : tout comme son parent peau-verte, il ne reculera devant rien. Il peut transporter de 
+lourdes charges, porter tous les types d'armure, utiliser n'importe quel arme dont le maniement n'est pas trop complexe ou 
+qui n'est pas trop fragile (exit les arbalètes, nunchakus et sarbacanes).
+
+Le demi-orque et la Magie : ils n'aiment pas la magie, ni les mages, mais sont beaucoup moins perturbés que les orques pur-
+sang. Ils n'aiment pas la lecture, de base, et considèrent ceux qui la pratiquent comme des gens bizarres. Bien sûr, il se peut 
+qu'ils côtoient des mages au cours de leur carrière d'aventurier et que leur a-priori soit un peu bouleversé. D'une manière 
+générale, le demi-orque pourra choisir de s'équiper d'une arme magique/enchantée s'il est convaincu du caractère efficace de 
+celle-ci. En recours exceptionnel, un mage pourrait réussir à le convaincre de s'équiper d'un autre type objet enchanté 
+(collier, bracelets ou autre).
+
+Gobelin
+Critères : Aucun minimum requis. Eh oui, le gobelin n'est jamais favorisé par la nature.
+Taille : entre 1,10 m et 1,20 m
+INT naturelle maximum : 10, CHA naturel maximum : 8, COU naturel maximum : 10, FO naturelle maximum : 9
+Les armes longues à 1 main sont pour le gobelin des armes à 2 mains. Tous les vêtements/protections sont 20% plus chers.
+Excellent odorat : peut flairer le sang ou le danger à 50 m. Bonne vue, nyctalopie totale.
+Restrictions :
+
+ n’utilise aucune forme de magie
+ ne parle pas la langue
+ transport de charge limité à 10 kilos
+
+EV initiale : 20 (+1D4 par niveau)
+AT/PRD initiales : le gobelin sait éviter les coups, le malus de PARADE relatif au matériel (PR) ne s'applique jamais
+Compétences de naissance : AGORAPHOBIE, APPEL DES RENFORTS, APPEL DU SAUVAGE, ATTIRE LES 
+MONSTRES, INSTINCT DE SURVIE, INSTINCT DU TRÉSOR, SENTIR DES PIEDS, TÊTE VIDE, 
+Compétences au choix : bricolo du dimanche, désamorcer, escalader, forgeron
+
+Les gobelins sont les « petits frères pauvres » des orques. Ils ont également la peau verte et le visage contrefait, mais ils ne 
+sont ni intelligents, ni forts, ni courageux, ni beaux... Il ne leur reste pour survivre que l'adresse et la fourberie.
+Ils parlent une langue bizarre et syncopée, très complexe et très rapide, et n'arrivent que très rarement à articuler des 
+mots de la langue commune. On peut donc les comprendre seulement si on connaît les langues des monstres. Ils ne voient 
+pas les couleurs comme les autres gens, mais seulement des nuances de vert.
+
+Magie : persécuté depuis des millénaires par les mages, le gobelin déteste la magie, sous toutes ses formes (à moins d'être un 
+peu fou, ce qui arrive de temps en temps). Il peut « sentir » l'aura magique d'un objet s'il doit le porter sur lui, et ça le 
+dérange. Il n'utilise donc aucune arme, armure ou objet magique. Il ne sera jamais vraiment l'ami d'un mage ou d'un prêtre 
+(car il n'aime pas les dieux non plus – mais il faut bien dire que les dieux ne l'aiment pas !).
+
+Le gobelin et les armes : bien que d'un naturel violent, le gobelin souffre d'un problème quand il s'agit de combattre : il n'a 
+pas la taille ni la force nécessaire à l'emploi de la plupart des armes. Ainsi, il est à l'aise avec les couteaux, petits gourdins, 
+hachettes, hachoirs et dagues. Il peut éventuellement utiliser des armes de fabrication maison et même de petits boucliers, 
+mais ne peut générer beaucoup de puissance, et donc ne fera que des dégâts limités.
+Si le gobelin utilise une épée courte, il le fera avec ses deux mains, mais contrairement au Nain n'aura pas de bonus aux 
+dégâts car il n'a pas de force. 
+
+Le gobelin et l'équipement : pour survivre, le gobelin peut essayer de s'équiper de n'importe quoi. Son principal problème 
+vient du fait que personne ne fabrique d'armures à sa taille, et qu'il est donc très difficile de trouver de l'équipement adapté. 
+La plupart du temps, il porte donc des armures rafistolées, des casques trop grands ou des bracelets bricolés. Il perdra 
+rapidement de l'adresse en portant une armure lourde (supérieure à 3 PR), mais contrairement à la plupart des autres héros 
+ne sera jamais affligé d'un malus au score de PARADE ou d'ESQUIVE. Il est simplement tellement couard qu'il développe 
+un sens spécial pour échapper aux coups ! Son score d'ATTAQUE en revanche pourra toujours être réduit.
+
+Les armes de jet : les gobelins sont fourbes, vils et manquent totalement de courage. Quand ils peuvent attaquer à distance, 
+ils ne s'en privent pas ! Ils sont adroits et ingénieux, bien que relativement stupides, et peuvent utiliser n'importe quelle 
+arme de jet, tant que son poids ou sa taille n'est pas un problème. Ils aiment les petites lames, les arcs courts, les petites 
+arbalètes et les shuriken, frondes, lance-pierres. Ils sont en revanche incapables d'utiliser des armes de jet lourdes ou 
+encombrantes : arbalètes à taille humaine, haches ou javelots.
+On raconte que certains gobelins, vivant avec des ingénieurs fous, fabriquent des armes à poudre et à feu qui crachent la 
+mort de loin...
+
+OGRE
+Critères : FO minimum : 13 - INT naturelle maximum : 9, AD naturelle maximum : 11, CHA naturel maximum : 10
+Taille : Entre 2,10 m et 2,40 m, large et gros.
+Très bon odorat : peut flairer le sang ou le danger à 50 m. Tous les vêtements/protections sont 30% plus chers.
+Restrictions :
+
+ n’utilise pas d’armes compliquées à manier
+ n’utilise aucune forme de magie
+ ne parle pas la langue
+ n’utilise pas d’arc ou arbalète
+ n’utilise pas d’armure supérieure à 4PR
+
+EV initiale : 45
+AT/PRD initiales : l'ogre est bourrin, il a +1 en ATTAQUE et -1 en PARADE en début de carrière
+SUPER-BOURRIN : L'ogre a le droit de retrancher jusqu'à 3 points à son score de base en ATTAQUE et/ou en PARADE 
+pour en faire un bonus de dégâts (au corps à corps, toutes armes confondues). Ainsi il peut avoir +3 en dégâts en plus de ses 
+autres bonus de FORCE, mais son côté bourrin le rend maladroit. Le bonus est à choisir en début de carrière et ne pourra 
+être modifié par la suite. En outre, un malus de PRD-5 s'applique à celui qui tente de parer une attaque de l'ogre.
+Compétences de naissance : APPEL DU VENTRE, APPEL DU TONNEAU, ARMES DE BOURRIN, INSTINCT DE 
+SURVIE, INTIMIDER, SENTIR DES PIEDS, TÊTE VIDE
+Compétences au choix : bourre-pif, chercher des noises, fouiller dans les poubelles, langues des monstres, truc de mauviette
+
+Les ogres sont des créatures semi-géantes d'un naturel placide mais assez promptes à la violence. Ils vivent dans tous 
+types de milieux à condition qu'on y trouve de la nourriture, généralement assez loin des grandes villes. Parfois, un ogre 
+s'ennuie et décide de parcourir le monde et de rencontrer des gens. Ses compétences sont cependant réduites, mais ils 
+compensent par une grande force.
+Leur principale activité consiste à trouver de la nourriture, mais ils sont attirés par les belles choses, sans vraiment les 
+comprendre. Ils ont donc un côté un peu enfantin, mais restent très dangereux pour leurs ennemis, et parfois pour leur 
+entourage.
+
+Ils parlent une langue bizarre extrêmement simple, à base de concepts. Ils n'arrivent que très rarement à articuler des 
+mots de la langue commune. On peut donc les comprendre seulement si on connaît les langues des monstres.
+
+Magie : pour l'Ogre, la magie c'est un concept beaucoup trop compliqué. Il peut s'émerveiller devant une boule de feu ou 
+des éclairs en chaîne, mais ne se sentira jamais à l'aise en portant un objet magique, dont il pourra sentir l'influence. Il n'a 
+rien contre les gens qui pratiquent la magie, mais ça lui est égal de toute façon du moment qu'on le nourrit.
+
+L'ogre et l'équipement : habitué à vivre nu ou en pagne, l'Ogre ne sera jamais engoncé dans une armure. C'est d'autant 
+plus facile à comprendre que la plupart des gens ne font pas de vêtements à sa taille ! Il peut éventuellement porter des 
+braies, des bracelets, un casque léger, de petites pièces d'armure produites par des artisans spécialisés (et qui seront bien sûr 
+plus chers) mais rien qui ne puisse entraver ses mouvements, ou il se sentira mal à l'aise et jettera l'accessoire dans la plus 
+proche poubelle. Il peut transporter de lourdes charges ou de gros sacs sans vraiment s'en rendre compte, du moment qu'il 
+peut le poser en cas de danger.
+
+L'ogre et les armes : L'Ogre utilise tout ce qu'il peut trouver pour taper les gens qui l'agressent. En général, ce sont des 
+armes de grande taille car il ne voit pas l'intérêt de frapper avec une brindille. En conséquence il n'utilisera pas les dagues, 
+poignards, couteaux et autres lames courtes. Il n'utilisera pas non plus les armes de jet nécessitant une manipulation 
+quelconque. Généralement, l'Ogre s'équipe d'une grosse branche ou d'une massue, ou d'armes spéciales et encombrantes 
+fabriquées par des malades mentaux. Quoi qu'il arrive il n'est pas très adroit mais produit des dégâts considérables lorsqu'il 
+touche. Si l'ogre prend la compétence « bourre-pif », il sera déjà très dangereux à mains nues.
+
+SEMI-HOMME (un genre de hobbit)
+Critères : COU minimum : 12, INT minimum : 10 - FO naturelle maximum : 10
+Taille : entre 1 m et 1,10 m, souvent rondouillard ou obèse
+Les armes à 1 main sont pour le semi-homme des armes à 2 mains. Tous les vêtements/protections sont 20% plus chers.
+Restrictions :
+
+ n’utilise pas la magie sauf sur arme, objet ou protection enchantée
+ n’utilise pas d’arc ni d’arme à 2 mains « à taille humaine »
+ n’utilise pas d’armure complète
+ n’utilise pas d’armure supérieure à PR3 (sauf magique)
+ transport de charge limité à 10 kilos
+
+EV initiale : 25 (+1D4 par niveau)
+Compétences de naissance : APPEL DU TONNEAU, ATTIRE LES MONSTRES, CUISTOT, INSTINCT DE SURVIE, 
+RESSEMBLE A RIEN
+Compétences au choix : appel des renforts, chouraver, érudition, fariboles, fouiller dans les poubelles, frapper lâchement, 
+instinct du trésor, mendier et pleurnicher, tirer correctement (restriction sur les armes)
+
+Les semi-hommes sont des gens simples vivant dans quelques parties de la Terre de Fangh, principalement là où il n'y a 
+pas trop de danger et où on peut cultiver des légumes. Ils sont assez courageux pour leur taille, et parfois certains sont 
+assez braves pour partir à l'aventure, bien qu'ils n'aient pour cette activité aucune prédisposition particulière.
+Leur principal centre d'intérêt est la nourriture, et ils excellent dans tous les domaines culinaires. Leurs spécialités sont 
+réputées. On les prend souvent pour des enfants, mais les monstres ont une fâcheuse tendance à leur foncer dessus.
+
+La magie : l'intelligence des semi-hommes est légèrement supérieure à celle des humains mais ils ne sont pas de grands 
+fanatiques de magie. Ils se servent de leur intelligence pour autre chose, comme par exemple trouver des solutions pour 
+échapper au danger. Quand on a la taille d'un enfant de 8 ans, le moindre coup de hache un peu trop appuyé peut vous 
+expédier au cimetière ! Certains d'entre eux en revanche font de bons prêtres. Les semi-hommes sont donc capables 
+d'utiliser des objets magiques ainsi que des armes, armures ou même des parchemins mais ils trouvent rarement du matériel 
+magique adapté à leur taille.
+
+Le semi-homme et l'équipement : comme il n'est pas très lourd ni particulièrement costaud (bien que plus robuste qu'un 
+gobelin), le semi-homme aura tendance à porter des armures assez légères. Il aura cependant beaucoup de mal à trouver de 
+l'équipement adapté à sa taille, à moins d'en commander à un artisan (en payant le prix fort). Certains vendeurs ont du 
+matériel pour semi-homme, mais ils ne se privent pas pour en augmenter les tarifs. Au niveau du poids transporté, c'est un 
+personnage qui n'est pas fainéant, mais qui est limité par sa corpulence.
+
+Le semi-homme et les armes : tout comme les Nains, les semi-hommes ne peuvent pas utiliser les armes à deux mains 
+prévues pour les humains. S'ils se munissent d'une arme à une main, ils l'utiliseront à deux mains sans appliquer de 
+modification à leurs caractéristiques. Cependant, le semi-homme n'a pas la force du Nain et n'aura donc pas de bonus aux 
+dégâts.
+Les armes à une main qu'il peut utiliser sont donc de petite taille : couteaux, poignards, ou même une dague qui dans leur 
+main se transforme en épée courte.
+
+Les armes de jet : la plupart des armes de jet usuelles sont trop lourdes, trop grandes ou trop encombrantes pour les semi-
+hommes. Cependant, ils considèrent que l'arme de jet est bonne pour leur survie car elle leur permet de rester le plus 
+longtemps possible loin des ennemis. Ils peuvent donc se munir de petites lames, de shuriken, d'une sarbacane, d'une fronde 
+ou d'un lance-pierre.
+
+Gnôme des forêts du Nord
+Critères : AD minimum : 13, INT minimum : 10 - FO naturelle maximum : 8
+Taille : environ 60 cm, léger et mince avec un corps souple
+Tous les vêtements/protections sont 50% plus chers (sur mesure). La plupart des armes sont trop lourdes. Le gnôme est 
+contorsionniste, et roi de l'esquive. De part sa petite taille, il peut chevaucher n'importe quoi.
+Restrictions :
+
+ n’utilise pas la magie sauf sur arme ou protection enchantée
+ armes autorisées : poignards, couteaux, petites lames uniquement
+ transport de charge limitée à 2 kilos
+ ne parle pas la langue
+ n’utilise pas d’armure supérieure à PR2 (sauf magique)
+
+EV initiale : 15 (+1D4 par niveau)
+AT/PRD initiales : il est agile, il a +2 en ATTAQUE et -2 en PARADE en début de carrière – il peut esquiver les coups de 
+manière permanente sans rater aucun assaut
+Compétences de naissance : AMBIDEXTRIE, APPEL DES RENFORTS, CHEVAUCHER, CHOURAVER, 
+DÉPLACEMENT SILENCIEUX, INSTINCT DU TRÉSOR
+Compétences au choix : comprendre les animaux, désamorcer, détection, escalader, jonglage et danse, mendier et 
+pleurnicher, nager, serrurier
+
+Les gnômes des forêts du nord sont les aventuriers les plus improbables qui soient. Ils sont minuscules et hardis, très adroits, 
+silencieux, mais ils ont autant de force physique qu'un flan aux fruits, et la constitution d'un jeune gamin. Ils ont un 
+véritable talent pour la contorsion et les acrobaties.
+Ils vivent en tribus dans les forêts, avec un mode de vie assez proche des Elfes Sylvains mais en moins sophistiqué. Ils 
+disposent d'une forme d'intelligence très particulière et sont beaucoup moins naïfs. Les gnômes ignorent par exemple toute 
+communication écrite et n'ont jamais appris à compter. Cependant, ils peuvent élaborer des pièges complexes et fabriquer 
+des objets superbes, ou trouver la solution à des problèmes d'ordre pratique qui rebuteraient un Nain. Ils sont aussi très 
+adroits pour dénicher les richesses.
+
+Super esquive : à la différence des autres aventuriers, le gnôme peut attaquer et esquiver dans le même assaut. Il est si 
+souple et si vif que ça ne lui pose pas de problème. Il utilise donc très rarement la PARADE, d'autant plus qu'il n'a pas la 
+force physique pour parer, ni une arme capable de dévier les coups. En cas d'échec critique à l'esquive, on peut considérer 
+que c'est simplement une esquive ratée.
+
+Magie : pour le gnôme, la magie c'est amusant à regarder. Ensuite, c'est aussi très dangereux pour lui ! Il essaie de s'en 
+tenir éloigné au maximum s'il s'agit de magie offensive. Si on lui confie un objet magique qui ne semble pas dangereux, il 
+s'en accommodera mais sans chercher à courir après.
+
+L'équipement : il est très compliqué pour un gnôme de s'équiper. D'une part, personne ne fabrique d'objets à sa taille, à 
+l'exception de ses congénères ou de lui-même. Le matériel dont il peut se munir est donc très rare et très cher. Il est aussi 
+léger et frêle, et quoi qu'il en soit ne pourra jamais s'équiper d'autre chose que de cuir souple, vaguement rembourré dans le 
+meilleur des cas. Une pièce d'armure un peu épaisse lui donnera immédiatement un sévère malus d'adresse. Dans un second 
+temps, la constitution du gnôme ne lui permet pas de transporter de charges réelles, et il devra souvent se contenter d'une 
+petite besace ou d'un baluchon. Le reste de son équipement pourra être porté par d'autres gens s'il a des équipiers.
+L'intelligence du gnôme lui permet de reconnaître beaucoup de choses sans savoir lire, comme les poisons par exemple. Il 
+s'en sert habilement pour chasser ou se débarrasser de ses ennemis.
+
+Les armes : les mains du gnôme sont trop petites pour empoigner autre chose que des petits couteaux ou des poignards. Les 
+dagues par exemple sont déjà trop grosses et trop volumineuses pour lui !
+
+Les armes de jet : à l'exception des sarbacanes qu'il peut fabriquer tout seul, le gnôme n'a pas la force de lancer quoi que ce 
+soit de volumineux ou de lourd, même les poignards. Il peut à la rigueur s'essayer au shuriken.
+
+CHOIX D'UN MÉTIER
+Note importante : Les attributs du métier s'ajoutent aux autres compétences et pré-requis du personnage de base, annulent 
+ou remplacent d'éventuelles compétences conflictuelles. Prenez donc un cachet d'aspirine.
+
+GUERRIER, GLADIATEUR (origines compatibles uniquement)
+FO et COU minimum : 12
+Apte à la baston dès le plus bas niveau !
+Restriction :
+
+ n’utilise pas la magie, sauf sur arme ou protection enchantée
+
+EV initiale : 35 (Humain, Barbare) ou valeur initiale +5 pour les autres origines
+Peut choisir au niveau 1 d'échanger 1 point d'ATTAQUE avec 1 point de PARADE, ou inversement
+Compétences héritées : ARMES DE BOURRIN, BOURRE-PIF
+Compétences au choix : ambidextrie, chercher des noises, chevaucher, forgeron, intimider, tirer correctement, truc de 
+mauviette
+
+NINJA, ASSASSIN (origines compatibles uniquement)
+AD minimum : 13
+Restriction :
+
+ n’utilise pas d’armure supérieure à PR3 (sauf magique)
+
+EV initiale : selon origine
+Valeur ATTAQUE initiale : 11 (bonus AD compris) – Valeur PARADE initiale : 8
+L'assassin est bien meilleur à l'attaque qu'à la parade. De plus, après avoir réussi une esquive, il a 50 % de chances de 
+pouvoir attaquer tout de même au cours de l'assaut suivant (4, 5 ou 6 au D6).
+Compétences héritées : DÉPLACEMENT SILENCIEUX, FRAPPER LÂCHEMENT, TIRER CORRECTEMENT
+Compétences au choix : ambidextrie, chercher des noises, chevaucher, érudition, escalader, méfiance, nager, ressemble à rien
+
+VOLEUR (origines compatibles uniquement)
+AD minimum : 12
+Restriction :
+
+ n’utilise pas d’armure supérieure à PR3 (sauf magique)
+
+EV initiale : selon origine
+Compétences héritées : APPEL DES RENFORTS, CHOURAVER, DÉPLACEMENT SILENCIEUX, DÉTECTION,  
+SERRURIER
+Compétences au choix : arnaque et carambouille, désamorcer, érudition, escalader, fouiller dans les poubelles, frapper 
+lâchement, méfiance, ressemble à rien
+
+PrêTRE (origines compatibles uniquement)
+CHA minimum : 12
+Le prêtre reçoit les restrictions et avantages relatifs au dieu choisi.
+Peut faire appel aux prodiges des dieux. Peut choisir une affiliation à un dieu ou démon. Peut faire une cure (payante) pour 
+gagner des points astraux.
+Restrictions :
+
+ doit utiliser les armes et protections autorisées par le dieu ou démon affilié
+ doit se plier aux règles de vie relatives au dieu ou démon affilié
+
+EV initiale : selon origine - EA « karmique » initiale : 20
+Au passage de niveau, choisit d'augmenter l'énergie vitale OU l'énergie astrale karmique (ID6)
+Compétences héritées : ÉRUDITION, , MÉFIANCE, RÉCUPÉRATION
+Compétences au choix : arnaque et carambouille, chevaucher, cuistot, fariboles, premiers soins, radin, runes bizarres
+
+MagE, SORCIER (origines compatibles uniquement)
+INT minimum : 12
+Aptitudes à la magie : peut lancer tous les sortilèges. Peut choisir une spécialité magique ou une affiliation à un dieu ou 
+démon. Peut faire une cure (payante) pour gagner des points astraux. Peut utiliser un bâton magique. Peut pratiquer des 
+invocations ou enchanter des objets.
+Restrictions :
+
+ ne peut utiliser autre chose que : bâton, poignard, dague, gourdin comme arme de combat rapproché
+ n’utilise pas les arcs ou arbalètes
+ n’utilise pas les boucliers
+ transport de charge limitée à 10 kilos (ou moins selon race)
+ n’utilise pas d’armure supérieure à PR2 (sauf magique)
+
+EV initiale : 20 (humain) ou EV initiale -30% (autres races)
+EA initiale (mana) : 30 (+1D6 par niveau) 
+Au passage de niveau, choisit d'augmenter l'énergie vitale OU l'énergie astrale (ID6)
+Compétences héritées : ÉRUDITION, RÉCUPÉRATION, RUNES BIZARRES
+Compétences au choix : appel des renforts, chef de groupe, chevaucher, fariboles, langues des monstres, premiers soins
+
+Paladin (origines compatibles uniquement)
+CHA minimum : 11, COU minimum : 12, FO minimum : 9, INT minimum : 10
+Restrictions/avantages :
+
+➢ liées au dieu auquel le paladin a voué son âme (voir fiches descriptive pour chaque dieu)
+➢ doit posséder une relique du dieu en question pour utiliser ses pouvoirs (sinon, il ne sera qu'un aspirant paladin)
+
+EV initiale : 32 (Humain) ou valeur initiale +2 pour les autres origines
+EA « karmique » initiale : 10
+Au passage de niveau, choisit d'augmenter l'énergie vitale (1D6) OU l'énergie astrale karmique (ID4)
+Compétences héritées : CHEVAUCHER, INTIMIDER, RÉCUPÉRATION
+Compétences au choix : armes de bourrin, chercher des noises, érudition, fariboles, premiers soins
+
+Ranger (origines compatibles uniquement)
+AD minimum : 10, CHA minimum : 10
+Restriction :
+
+ n’utilise pas d’armure supérieure à PR4 (sauf magique ou “spécial voleur/ranger”)
+
+EV initiale : selon origine
+Compétences héritées : DÉPLACEMENT SILENCIEUX, DÉTECTION, CHEVAUCHER, NAGER, PISTER
+En raison de sa polyvalence, au niveau 1 le Ranger peut choisir de soustraire 1 point d'une CARAC pour l'ajouter à une 
+autre (INT, CHA, COU, FO, AD)
+Compétences au choix : ambidextrie, chef de groupe, comprendre les animaux, désamorcer, érudition, escalader, méfiance, 
+premiers soins, tirer correctement
+
+Ménestrel (origines compatibles uniquement)
+AD minimum : 11, CHA minimum : 12
+Restrictions :
+
+ n’utilise pas d’armure supérieure à PR2 (sauf magique)
+ ne peut utiliser autre chose que : bâton, poignard, dague, gourdin comme arme de combat rapproché
+ n'utilise pas de bouclier ni d'arbalète
+
+EV initiale : selon origine
+Compétences héritées : ATTIRE LES MONSTRES, CHEVAUCHER, ÉRUDITION, FARIBOLES, JONGLAGE ET 
+DANSE, NAÏVETÉ TOUCHANTE
+Compétences au choix : méfiance, mendier et pleurnicher, premiers soins, runes bizarres, tirer correctement
+
+PIRATE (origines compatibles uniquement)
+AD minimum : 11, COU minimum : 11
+Restrictions :
+
+ n’utilise pas d’armure supérieure à PR3 (sauf magique)
+ un pirate reste un pirate : il ne peut changer de métier
+ ne peut utiliser d'arme à 2 mains
+
+EV initiale : selon origine
+Compétences héritées : APPEL DES RENFORTS, APPEL DU TONNEAU, ARNAQUE ET CARAMBOUILLE, 
+CHOURAVER, ESCALADER, NAGER
+Compétences au choix : détection, fouiller dans les poubelles, instinct du trésor, méfiance, mendier et pleurnicher, tirer 
+correctement
+
+MARCHAND (origines compatibles uniquement)
+INT minimum : 12, CHA minimum : 11
+Restrictions :
+
+ n’utilise pas d’armure supérieure à PR3 (sauf magique)
+ ne peut utiliser d'arme à 2 mains
+
+EV initiale : selon origine
+En raison de son érudition, au niveau 1 le marchand doit retirer 1 point à l'attaque ou à la parade, qu'il pourra ajouter au 
+choix à l'intelligence ou au charisme
+Au niveau 1, le marchand possède une charrette, un cheval et une « maison en village paumé » (à situer sur la carte)
+Compétences héritées : APPEL DES RENFORTS, ARNAQUE ET CARAMBOUILLE, ÉRUDITION, FARIBOLES, 
+MÉFIANCE
+Compétences au choix : chef de groupe, chevaucher, cuistot, forgeron, instinct du trésor, runes bizarres
+
+INGÉNIEUR (origines compatibles uniquement)
+AD minimum : 11
+Restrictions :
+
+ n’utilise pas d’armure supérieure à PR3 (sauf magique)
+ ne peut utiliser d'arme à 2 mains
+
+EV initiale : selon origine
+En raison de sa spécialisation technique, au niveau 1 l'ingénieur doit retirer 1 point à l'attaque ou à la parade, qu'il pourra 
+ajouter au choix à l'intelligence ou à l'adresse
+Note : Pour un gameplay riche et des possibilités de jeu avancées, vous pouvez récupérer le supplément pour l’ingénieur
+Compétences héritées : BRICOLO DU DIMANCHE, DÉSAMORCER, FORGERON, RESSEMBLE A RIEN, 
+SERRURIER
+Compétences au choix : appel des renforts, cuistot, chevaucher, érudition, nager, premiers soins
+
+BOURGEOIS, NOBLE (origines compatibles uniquement)
+INT minimum : 10, CHA minimum : 11
+Restrictions :
+
+ aucune restriction particulière, car le noble pense qu'il peut tout faire – ce qui est faux bien sûr
+ non, le noble ne peut choisir aucun autre métier que noble, même à haut niveau !
+
+EV initiale : selon origine
+Au niveau 1, le noble peut tirer une deuxième fois sa fortune et ajouter les pièces d'or à son pécule de base. Il possède 
+également une « maison de ville moyenne » (à situer sur la carte dans une ville) ainsi qu'un cheval.
+AT et PRD d'origine : 7 / 9
+Compétences héritées : APPEL DES RENFORTS, ATTIRE LES MONSTRES, CHEVAUCHER, ÉRUDITION, PÉNIBLE
+Compétences au choix : arnaque et carambouille, chef de groupe, jonglage et danse, méfiance, nager, runes bizarres
+
+
